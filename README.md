@@ -1,1 +1,1 @@
-temporary programe for Hello world
+temporary program for Hello world
